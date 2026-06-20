@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [LyeDevGit]
+# 👋 Hi, I'm LyeDevGit
 
 Python enthusiast, currently diving into JavaScript.
 
