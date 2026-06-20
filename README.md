@@ -6,10 +6,11 @@
 
 </div>
 
-Hey there! I'm DClyde, though you might know me as LyeDev. Self-Taught Programmer
+I'm a self-taught **Python Developer** <img src="emoji/python.png" width="17.5"> and currently learning **JavaScript** <img src="emoji/javascript.png" width="17.5"> <br />
+I built this profile to showcase what I work on and share what I enjoy doing. <br />
+Always open to feedback or code reviews — happy to learn from anyone. <br />
 
-## 🛠️ Stack
+⭐️ Follow me if you'd like, I'd appreciate the support! <br />
 
-**Comfortable with:** Python  
-**Currently learning:** JavaScript  
-**Interested in:** Backend & automation
+<img src="img/reze.png" width="25%"> <br />
+Thanks for dropping in! Hope you enjoy your time here 😊
