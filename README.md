@@ -2,7 +2,7 @@
 
 # Hi, I'm LyeDev
 
-Self-Taught Programmer
+Hey there! I'm DClyde, though you might know me as LyeDev. Self-Taught Programmer
 
 ## 🛠️ Stack
 
