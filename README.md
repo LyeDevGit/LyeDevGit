@@ -13,4 +13,4 @@ Always open to feedback or code reviews — happy to learn from anyone. <br />
 ⭐️ Follow me if you'd like, I'd appreciate the support! <br />
 
 <img src="img/reze.png" width="25%"> <br />
-Thanks for dropping in! Hope you enjoy your time here. 😊
+Thanks for dropping in! Hope you enjoy your time here 😊
