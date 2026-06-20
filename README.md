@@ -1,4 +1,4 @@
-<img src="banner/757qk7hy6waf1.gif" width="100%">
+<img src="banner/banner.png" width="100%">
 
 # Hi, I'm LyeDev
 
