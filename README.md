@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# Hey there! I'm DClyde, aka LyeDev.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=35&pause=1000&color=F7F7F7&width=435&lines=Hy!+I'mDClyde%2C+aka+LyeDev.;Hi!+I'mLyeDev%2C+aka+DClyde.;Hy!+I'm+LyeDev%2C+or+DClyde.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,5 +12,5 @@ Always open to feedback or code reviews — happy to learn from anyone. <br />
 
 ⭐️ Follow me if you'd like, I'd appreciate the support! <br />
 
-<img src="img/reze.png" width="25%"> <br />
+<img src="img/twin_reze.png" width="25%"> <br />
 Thanks for dropping in! Hope you enjoy your time here 😊
